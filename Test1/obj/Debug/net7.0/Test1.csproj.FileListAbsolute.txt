@@ -1,0 +1,15 @@
+/Users/xhomedew/Projects/Test1/Test1/bin/Debug/net7.0/Test1
+/Users/xhomedew/Projects/Test1/Test1/bin/Debug/net7.0/Test1.deps.json
+/Users/xhomedew/Projects/Test1/Test1/bin/Debug/net7.0/Test1.runtimeconfig.json
+/Users/xhomedew/Projects/Test1/Test1/bin/Debug/net7.0/Test1.dll
+/Users/xhomedew/Projects/Test1/Test1/bin/Debug/net7.0/Test1.pdb
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.csproj.AssemblyReference.cache
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.AssemblyInfoInputs.cache
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.AssemblyInfo.cs
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.csproj.CoreCompileInputs.cache
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.dll
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/refint/Test1.dll
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.pdb
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/Test1.genruntimeconfig.cache
+/Users/xhomedew/Projects/Test1/Test1/obj/Debug/net7.0/ref/Test1.dll
